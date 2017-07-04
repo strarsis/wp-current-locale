@@ -20,7 +20,7 @@ Stores the current locale in
 `qtrans_getLanguage()` 
 [Compatibility code in recent version](https://github.com/qTranslate-Team/qtranslate-x/blob/e0e0c378308a5c1c7746357f04c41326feb05d64/qtranslate_compatibility.php#L30)
 
-#### Newer versions:
+#### Recent versions:
 [`qtranxf_getLanguage()`](https://github.com/qTranslate-Team/qtranslate-x/blob/e0e0c378308a5c1c7746357f04c41326feb05d64/qtranslate_utils.php#L465)
 
 
