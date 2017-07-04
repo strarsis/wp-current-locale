@@ -39,18 +39,18 @@ Stores the current locale in
 
 
 ### [Transposh](https://wordpress.org/plugins/transposh-translation-filter-for-wordpress/)
-`transposh_get_current_language()`
+[`transposh_get_current_language()`](https://plugins.trac.wordpress.org/browser/transposh-translation-filter-for-wordpress/tags/0.9.5/transposh.php#L1632)
 
 
 ### [xili-language](https://wordpress.org/plugins/xili-language/)
-`xili_curlang()`
+[`xili_curlang()`](https://plugins.trac.wordpress.org/browser/xili-language/tags/2.21.2/xili-language.php#L5214)
 
-`the_curlang()` (soon obsolete according to source comment)
+`the_curlang()` (soon obsolete according to [source comment](https://plugins.trac.wordpress.org/browser/xili-language/tags/2.21.2/xili-language.php#L5211))
 
 
 
 ### [Lingotek Translation](https://wordpress.org/plugins/lingotek-translation/)
-Seems to use Polylang - and only acts as source for translation data.
+[Seems to use Polylang](https://plugins.trac.wordpress.org/browser/lingotek-translation/tags/1.2.8/admin/admin.php#L627) - and only acts as source for translation data.
 
 
 ## Plugin not listed here?
