@@ -2,10 +2,13 @@
 Library/helper for determining the current language selected (different multilingual plugins)
 
 ## Note:
+
 There is a confusion over 'Language' and 'Locale'. 
 A Locale is more precise and standardized (e.g. 'en_US', 'en_GB' or 'fr_FR', 'fr_CA') while 'Language' is usually expected to be just the general Language code or even full name derived from the Locale ('en' or 'fr' - 'English', 'French' alternatively - for the previously given examples).
+
 Whether all these plugins properly return the locale in the same format has to be determined yet (see TODO below).
-If this explanation itself is too inaccurate or you think can be further improved, feel free to create an issue!
+
+Should this explanation itself be too inaccurate or you think can be further improved, feel free to create an issue!
 
 ## Helper usage:
 ```php
