@@ -39,9 +39,7 @@ Stores the current locale in
 
 
 ### [Transposh](https://wordpress.org/plugins/transposh-translation-filter-for-wordpress/)
-```php
-transposh_get_current_language()
-````
+`transposh_get_current_language()`
 
 
 ### [xili-language](https://wordpress.org/plugins/xili-language/)
@@ -55,5 +53,5 @@ transposh_get_current_language()
 Seems to use Polylang - and only acts as source for translation data.
 
 
-## Forgot a plugin?
+## Plugin not listed here?
 Please create an issue and tell me!
