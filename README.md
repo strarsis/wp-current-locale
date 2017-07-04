@@ -33,12 +33,10 @@ Stores the current locale in
 
 #### Current release
 (global namespace):
-
 [`mlp_get_current_blog_language($short = FALSE)`](https://github.com/inpsyde/MultilingualPress/blob/60b1b30f6ba910d04f6f6cbc8a1a9717c02529f3/src/inc/functions.php#L38)
 
 #### Newer release
 (`Inpsyde\MultilingualPress` namespace):
-
 [`Inpsyde\MultilingualPress\get_current_site_language($language_only)`](https://github.com/inpsyde/MultilingualPress/blob/0bd4961e6fb16a76bb292c7bed52ccb5a0d42231/inc/functions.php#L323)
 
 
