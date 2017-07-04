@@ -5,7 +5,6 @@ Library/helper for determining the current language selected (different multilin
 ### [Polylang](https://wordpress.org/plugins/polylang/)
 Supports the WPML style 
 [`ICL_LANGUAGE_CODE`](https://polylang.pro/doc/wpml-api/) constant and 
-
 additionally exposes its own function 
 [`pll_current_language(name, locale or slug)`](https://polylang.wordpress.com/documentation/documentation-for-developers/functions-reference/).
 
