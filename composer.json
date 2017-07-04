@@ -1,0 +1,13 @@
+{
+    "name": "strarsis/wp-current-locale",
+    "description": "Library/helper for determining the current locale ('language') selected (different multilingual plugins)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "strarsis",
+            "email": "strarsis@gmail.com"
+        }
+    ],
+    "require": {}
+}
