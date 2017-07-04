@@ -2,6 +2,7 @@
 
 function get_current_locale() {
 
+
   // Polylang + WPML
   if (defined('ICL_LANGUAGE_CODE')) {
     return ICL_LANGUAGE_CODE;
