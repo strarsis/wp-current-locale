@@ -4,7 +4,7 @@ Library/helper for determining the current language selected (different multilin
 ## Helper usage:
 ```php
 require 'get_current_locale.php';
-get_current_locale.php()
+get_current_locale()
 ````
 
 ## List of multilingual plugins and functions for current language
