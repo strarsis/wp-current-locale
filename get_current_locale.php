@@ -42,7 +42,7 @@ function get_current_locale() {
 
   // xili-language
   if(function_exists('xili_curlang')) {
-    return xili_curlang()();
+    return xili_curlang();
   }
 
 
