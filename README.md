@@ -59,4 +59,4 @@ Stores the current locale in
 Please create an issue and tell me!
 
 # TODO:
-Returned locale normalization (if required).
+- Returned locale normalization (if required).
