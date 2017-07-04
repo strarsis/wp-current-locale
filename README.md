@@ -8,7 +8,7 @@ A 'Locale', in some plugins also called '(Language) Code', is more precise and s
 
 Whether all these plugins properly return the locale in the same format has to be determined yet (see TODO below).
 
-Should this explanation itself be too inaccurate or you think can be further improved, feel free to create an issue!
+Should this explanation itself be too inaccurate or you think can be further improved, feel free to create an issue so this can be fixed!
 
 ## Helper usage:
 ```php
