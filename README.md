@@ -1,6 +1,11 @@
 # wp-current-language
 Library/helper for determining the current language selected (different multilingual plugins)
 
+## Note:
+There is a confusion over 'Language' and 'Locale'. 
+The Locale is preferred because it conveys more information and in a more standardized manner.
+Whether all these plugins properly return the locale in the same format has to be determined yet (see TODO below).
+
 ## Helper usage:
 ```php
 get_current_locale()
