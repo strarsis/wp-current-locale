@@ -4,7 +4,7 @@ Library/helper for determining the current language selected (different multilin
 ## Note:
 
 There is a confusion over 'Language' and 'Locale'. 
-A Locale is more precise and standardized (e.g. 'en_US', 'en_GB' or 'fr_FR', 'fr_CA') while 'Language' is usually expected to be just the general Language code or even full name derived from the Locale ('en' or 'fr' - 'English', 'French' alternatively - for the previously given examples).
+A 'Locale', in some plugins also called '(Language) Code', is more precise and standardized (e.g. 'en_US', 'en_GB' or 'fr_FR', 'fr_CA') while 'Language' is usually expected to be just the general Language code or even full name derived from the Locale ('en' or 'fr' - 'English', 'French' described in some plugins - for the previously given examples).
 
 Whether all these plugins properly return the locale in the same format has to be determined yet (see TODO below).
 
