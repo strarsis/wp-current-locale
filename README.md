@@ -1,6 +1,13 @@
 # wp-current-language
 Library/helper for determining the current language selected (different multilingual plugins)
 
+## Helper usage:
+```php
+require 'get_current_locale.php';
+get_current_locale.php()
+````
+
+## List of multilingual plugins and functions for current language
 
 ### [Polylang](https://wordpress.org/plugins/polylang/)
 Supports the WPML style 
@@ -58,5 +65,5 @@ Stores the current locale in
 ## Plugin not listed here?
 Please create an issue and tell me!
 
-# TODO:
+## TODO:
 - Returned locale normalization (if required).
