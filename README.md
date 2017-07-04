@@ -57,3 +57,6 @@ Stores the current locale in
 
 ## Plugin not listed here?
 Please create an issue and tell me!
+
+# TODO:
+Returned locale normalization (if required).
