@@ -50,7 +50,7 @@ Stores the current locale in
 
 
 ### [Lingotek Translation](https://wordpress.org/plugins/lingotek-translation/)
-[Seems to use Polylang](https://plugins.trac.wordpress.org/browser/lingotek-translation/tags/1.2.8/admin/admin.php#L627) - and only acts as source for translation data.
+[Seems to use Polylang.](https://plugins.trac.wordpress.org/browser/lingotek-translation/tags/1.2.8/admin/admin.php#L627)
 
 
 ## Plugin not listed here?
