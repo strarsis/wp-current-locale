@@ -45,12 +45,9 @@ transposh_get_current_language()
 
 
 ### [xili-language](https://wordpress.org/plugins/xili-language/)
-````php
-xili_curlang()
-````
+`xili_curlang()`
 
-#### soon obsolete according to source comment)
-`the_curlang()`
+`the_curlang()` (soon obsolete according to source comment)
 
 
 
