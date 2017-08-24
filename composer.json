@@ -1,6 +1,7 @@
 {
     "name": "strarsis/wp-current-locale",
     "description": "Library/helper for determining the current locale ('language') selected (different multilingual plugins)",
+    "keywords": ["wordpress", "multilingual", "multilingual-websites", "wordpress-plugins", "polylang", "wpml", "wpml-plugin", "qtranslate-x", "qtranslatex", "qtranslate", "babble", "multilingual-press", "transposh", "xili-language", "language", "locale", "current", "list"],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,5 +10,10 @@
             "email": "strarsis@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0" : {
+            "Strarsis\\WpCurrentLocale\\" : "src"
+        }
+    }
 }
