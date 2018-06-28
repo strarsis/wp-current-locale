@@ -1,6 +1,10 @@
 # wp-current-language
 Library/helper for determining the current language selected (different multilingual plugins)
 
+## Deprecated
+This repository has been deprecated because it is sufficient to use `get_locale()` for 
+retrieving the current locale across different language plugins.
+
 ## Note:
 
 There is a confusion over 'Language' and 'Locale'. 
